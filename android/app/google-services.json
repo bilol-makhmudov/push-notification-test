@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424232470996",
+    "project_id": "jeleapp-517ee",
+    "storage_bucket": "jeleapp-517ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424232470996:android:a2d601125447368b94ee41",
+        "android_client_info": {
+          "package_name": "com.example.jele_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_nXU4DjzdeLOSn0ipq6c_OyAW4vvV_GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
